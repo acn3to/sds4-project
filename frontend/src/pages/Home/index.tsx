@@ -4,7 +4,8 @@ import { Link } from "react-router-dom";
 
 const Home = () => {
     return (
-        <><NavBar />
+        <>
+        <NavBar />
             <div className="container">
                 <div className="jumbotron">
                     <h1 className="display-4">DSVendas</h1>
